@@ -1,5 +1,5 @@
 # BMW F8X Platform - Crankhub Failure Analysis
-### Featured on BMW's Tech Subreddit [Reddit](https://www.reddit.com/r/BmwTech/comments/1f0l6gv/crankhub_failure_data_analysis_on_the_f8x_platform/)
+### Featured on BMW's r/BmwTech [Reddit](https://www.reddit.com/r/BmwTech/comments/1f0l6gv/crankhub_failure_data_analysis_on_the_f8x_platform/)
 This project focuses on analyzing the prevalence and patterns of Spun Crank Hub (SCH) failures in BMW vehicles. Using a dataset sourced from a forum thread on the Bimmerpost website, the analysis examines the relationship between SCH failures and various factors such as vehicle models, modifications, and transmission types. The ultimate goal is to provide insights and recommendations to help mitigate SCH issues.
 
 ## Project Objectives
