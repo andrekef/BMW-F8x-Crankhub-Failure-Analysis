@@ -23,4 +23,3 @@ This analysis can be used by BMW enthusiasts, mechanics, and potential buyers to
 * Analysis Script: Python script used for data cleaning, analysis, and visualization.
 * Data Files: The cleaned dataset used for analysis.
 * Final Report: A detailed report summarizing the analysis and findings.
-* Presentation Slides: Slides summarizing the key findings and recommendations.
